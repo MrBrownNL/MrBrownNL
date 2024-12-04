@@ -9,8 +9,8 @@
 
 ## 🛠️ Skills
 - **Programming Languages:** [PHP, JavaScript, Python]
-- **Frameworks/Libraries:** [Laravel, React]
-- **Tools:** [Git, Docker, Ansible]
+- **Frameworks/Libraries:** [Laravel, React, LangChain]
+- **Tools:** [Git, Docker, Ansible, Flowise]
 
 ## 🖼️ Projects
 Here are some highlights of my projects:

@@ -20,7 +20,8 @@ Here are some highlights of my projects:
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBrownNL&show_icons=true&theme=radical)
 
+[![Jeroen de Bruijn profile views](https://u8views.com/api/v1/github/profiles/58940742/views/day-week-month-total-count.svg)](https://u8views.com/github/MrBrownNL)
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeroendebruijnnl/)
 
-[![Jeroen de Bruijn profile views](https://u8views.com/api/v1/github/profiles/58940742/views/day-week-month-total-count.svg)](https://u8views.com/github/MrBrownNL)

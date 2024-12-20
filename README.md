@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Jeroen de Bruijn!
 
 ## 🚀 About Me
-- 🔭 I’m currently working on great projects using Laravel/React/GraphQL.
-- 🌱 I’m learning Python, LangChain.
-- 👯 I’m looking to collaborate on Laravel projects.
-- 🤔 I’m looking for help with setting up a production environment for agentic apps.
+- 🔭 I’m currently working on great projects using Laravel/React/GraphQL/Azure OpenAI Foundry.
+- 🌱 I’m learning Python, Graph RAG.
+- 👯 I’m looking to collaborate on Laravel and/or AI projects.
+- 🤔 I’m not looking for help at the moment.
 - ⚡ Fun fact: I love enduro mountain biking.
 
 ## 🛠️ Skills
 - **Programming Languages:** [PHP, JavaScript, Python]
-- **Frameworks/Libraries:** [Laravel, React, LangChain]
+- **Frameworks/Libraries:** [Laravel, React, LangChain/LangGraph, Azure]
 - **Tools:** [Git, Docker, Ansible, Flowise]
 
 ## 🖼️ Projects

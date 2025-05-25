@@ -10,10 +10,11 @@
 ## 🛠️ Skills
 - **Programming Languages:** [PHP, JavaScript, Python]
 - **Frameworks/Libraries:** [Laravel, React, LangChain/LangGraph, Azure]
-- **Tools:** [Git, Docker, Ansible, Flowise]
+- **Tools:** [Git, Docker, Ansible, Flowise, Windsurf Cascade]
 
 ## 🖼️ Projects
 Here are some highlights of my projects:
+- [**Windsurf Cascade Laravel Demo**](https://github.com/MrBrownNL/windsurf-cascade-laravel-demo): Laravel demo project created with Windsurf Cascade. 
 - [**Advent of Code 2024**](https://github.com/MrBrownNL/Advent-of-Code-2024): Improving my Python skills using AI. 
 - [**Random nickname generator**](https://github.com/MrBrownNL/random-nickname-generator): PHP package with Laravel facade.
 

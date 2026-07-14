@@ -5,7 +5,7 @@
 - 🌱 I’m learning Spanish.
 - 👯 I’m looking to collaborate on Laravel and/or AI projects.
 - 🤔 I’m not looking for help at the moment.
-- ⚡ Fun fact: I love craft chocolate.
+- ⚡ Fun fact: I love craft chocolate. [**Atelier de Bruijn**](https://atelierdebruijn.nl)
 
 ## 🛠️ Skills
 - **Programming Languages:** [PHP, JavaScript, TypeScript, Python]
@@ -26,4 +26,8 @@ Here are some highlights of my (public) projects:
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeroendebruijnnl/)
+
+## 🌐 My Website
+[Alphega Software](https://alphega.nl)
+
 
